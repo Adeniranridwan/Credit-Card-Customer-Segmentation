@@ -12,12 +12,12 @@ The sample Dataset summarizes the usage behavior of about 9000 active credit car
 The file is at a customer level with 18 behavioral variables.
 
 **Summary:**
--visualized the dataset to find the relationship between the features
--normalized the dataset 
--performed Dimension reduction using Principal Component analysis
--used the elbow method to determine the k value
--determined the best silhoutte score
--created cluster visulaizations
+- Visualized the dataset to find the relationship between the features
+- Normalized the dataset 
+- Performed Dimension reduction using Principal Component analysis
+- Used the elbow method to determine the k value
+- Determined the best silhoutte score
+- Created cluster visulaizations
 
 **prerequisite:**
 jupyter notebook
