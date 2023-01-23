@@ -20,7 +20,7 @@ The file is at a customer level with 18 behavioral variables.
 - Created cluster visulaizations
 
 **prerequisite:**
-jupyter notebook
-python
-numpy
-pandas
+- jupyter notebook
+- python
+- numpy
+- pandas
