@@ -5,7 +5,7 @@
     These segmentations can be carried out by expect in the field. however, it can lead to human error, biased decision and time consuming. Hence, it best to automate this process by desinging a customer segmentation system.
 
 **Objective:**
-- to develop a clustering algorithm that estimate credit card customer segmentation to help the company define the best marketing strategy
+- To develop a clustering algorithm that estimate credit card customer segmentation to help the company define the best marketing strategy
 
 **Dataset:**
 The sample Dataset summarizes the usage behavior of about 9000 active credit card holders during the last 6 months.
